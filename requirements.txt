@@ -1,0 +1,7 @@
+streamlit
+langchain
+openai
+faiss-cpu
+tqdm
+PyPDF2
+python-multipart

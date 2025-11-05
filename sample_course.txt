@@ -1,0 +1,16 @@
+Course: Introduction to Data Structures
+
+Lecture 1: Arrays and Linked Lists
+- Arrays are contiguous memory structures.
+- Linked Lists are composed of nodes with pointers to next elements.
+
+Lecture 2: Stacks and Queues
+- Stack is LIFO; push and pop operations.
+- Queue is FIFO; enqueue and dequeue operations.
+
+Lecture 3: Trees
+- Binary Tree: at most two children per node.
+- Binary Search Tree: left < node < right property.
+
+References:
+- Data Structures textbook, Chapter 1-3.
